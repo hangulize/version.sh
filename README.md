@@ -1,6 +1,7 @@
 # hangulize/version.sh
 
-A Bash script that prints installed Hangulize version.
+`hangulize-version` the Bash function prints the installed Hangulize version.
+It is used for CI of Hangulize-related projects.
 
 ```console
 $ source <(curl -s https://rawgit.com/hangulize/version.sh/master/@.sh)
