@@ -4,7 +4,7 @@
 It is used for CI of Hangulize-related projects.
 
 ```console
-$ source <(curl -s https://rawgit.com/hangulize/version.sh/master/@.sh)
+$ source <(curl -sL https://rawgit.com/hangulize/version.sh/master/@.sh)
 $ hangulize-version
 0.1.0
 ```
