@@ -3,7 +3,7 @@
 A Bash script that prints installed Hangulize version.
 
 ```console
-$ source <(curl -s https://raw.githubusercontent.com/hangulize/version.sh/master/hangulize-version.sh)
+$ source <(curl -s https://rawgit.com/hangulize/version.sh/master/@.sh)
 $ hangulize-version
 0.1.0
 ```
